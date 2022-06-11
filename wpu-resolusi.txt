@@ -1,5 +1,5 @@
 WPU RESOLUSI
 - Konsisten belajar backend dalam 1 hari 4 jam
-- Memperaktekan selama belajar
 - Memahami fungsi-fungsinya
 - Membuat aplikasi
+- Membuat projeck
